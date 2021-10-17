@@ -1,0 +1,904 @@
+<!--?xml version="1.0" encoding="utf-8" ?-->
+<LevelCollection>
+	<Levels>
+    <Level>
+      <LevelID> 0 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 1 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 2 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 3 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 4 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 4 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 6 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 4 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 6 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -6 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -6 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -6 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 5 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 4 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 4 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 4 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 4 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -4 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+        
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 6 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> -3 </PositionZ>
+          <Orientation> 2 </Orientation>
+          <SlabLevel> 2 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 1 </PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 0 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Empty</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> 1 </PositionZ>
+          <Orientation> 2 </Orientation>
+          <SlabLevel> 2 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -3 </PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 0 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Empty</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+    
+     <Level>
+      <LevelID> 8 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+        
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+    <Level>
+      <LevelID> 7 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Empty</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> -1 </PositionZ>
+          <Orientation> 2 </Orientation>
+          <SlabLevel> 2 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 3 </PositionY>
+          <PositionZ> -1 </PositionZ>
+          <Orientation> 2 </Orientation>
+          <SlabLevel> 2 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>Empty</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> -1 </PositionZ>
+          <Orientation> 2 </Orientation>
+          <SlabLevel> 2 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>End</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 3 </PositionY>
+          <PositionZ> -1 </PositionZ>
+          <Orientation> 2 </Orientation>
+          <SlabLevel> 2 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>T</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -1</PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 0 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -1</PositionX>
+          <PositionY> 3 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 0 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -1</PositionX>
+          <PositionY> 1 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 0 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -1</PositionX>
+          <PositionY> 3 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 0 </Orientation>
+          <SlabLevel> 0 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+  <Level>
+      <LevelID> 8 </LevelID>
+      <Slabs>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 3 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> 0 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> -2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 1 </Rotation>
+            <CircuitType>Line</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 0 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 2 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+        <Slab slabType="permutable">
+          <PositionX> -2 </PositionX>
+          <PositionY> 0 </PositionY>
+          <PositionZ> 2 </PositionZ>
+          <Orientation> 1 </Orientation>
+          <SlabLevel> 1 </SlabLevel>
+          <Card cardType = "circuit">
+            <Rotation> 0 </Rotation>
+            <CircuitType>Turn</CircuitType>
+          </Card>
+        </Slab>
+
+      </Slabs>
+    </Level>
+
+  </Levels>
+</LevelCollection>

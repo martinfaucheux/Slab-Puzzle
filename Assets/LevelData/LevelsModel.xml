@@ -1,0 +1,32 @@
+<!--?xml version="1.0" encoding="utf-8" ?-->
+<LevelCollection>
+	<Levels>
+		<Level>
+			<LevelID> 1 </LevelID>
+			<Slabs>
+				<Slab slabType="permutable">
+					<PositionX> 1 </PositionX>
+					<PositionY> 2 </PositionY>
+					<PositionZ> 3 </PositionZ>
+					<Orientation> 0 </Orientation>
+					<SlabLevel>0</SlabLevel>
+					<Card cardType = "circuit">
+						<Rotation> 1 </Rotation>
+						<CircuitType> "T" </CircuitType>
+					</Card>
+				</Slab>
+				<Slab slabType="permutable">
+					<PositionX> 6 </PositionX>
+					<PositionY> 6 </PositionY>
+					<PositionZ> 6 </PositionZ>
+					<Orientation> 1 </Orientation>
+					<SlabLevel>0</SlabLevel>
+					<Card cardType = "circuit">
+						<Rotation> 0 </Rotation>
+						<CircuitType> "End" </CircuitType>
+					</Card>
+				</Slab>
+			</Slabs>
+		</Level>
+	</Levels>
+</LevelCollection>

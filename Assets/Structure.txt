@@ -1,0 +1,52 @@
+
+Winning condition : all card must be activated
+
+Slab :
+	Position
+	Type (Support and substate)
+	Card (if it is, on top of the Slab)
+
+Card :
+	Type (How to activate the card)
+	bool Activated
+
+
+Support :
+	Position + Rotation
+	Support Type
+		Permute (touch two of them to permute them)
+		Slide (slide it toward a possible direction)
+		Rotative (tap to rotate)
+		Part of a plane (dependant of the plane)
+		Isometric Rotative Circle (tap to rotate)
+		
+	Check neighbour Cards (depend on if it is an isometric rotative circle)
+
+
+
+
+
+Card Types :
+
+	Circuit :
+		CheckActivation : must form a closed loop
+		Color
+
+	Dot :
+		CheckActivation : not dot in the neighbourhood
+
+	Stain :
+		CheckActivation : must form a closed loop
+		Color
+
+
+
+Slab Type (Support) :
+	
+	Square Card
+		Support Type
+			
+
+
+
+	Isometric Rotative Support
