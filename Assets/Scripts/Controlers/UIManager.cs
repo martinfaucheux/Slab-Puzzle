@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIManager : MonoBehaviour {
+public class UIManager : MonoBehaviour
+{
 
     [Tooltip("Text Component which contains the level id for the main UI")]
     public Text levelText;
@@ -28,6 +29,8 @@ public class UIManager : MonoBehaviour {
 
     [Tooltip("Text Component which contains the second hint for the first level")]
     public Text hintTwo;
+    [Tooltip("Text Component which contains the second hint for the first level")]
+
 
 
 
@@ -63,7 +66,7 @@ public class UIManager : MonoBehaviour {
     private void Start()
     {
         CheckSingleton();
-        
+
         if (levelText == null)
             Debug.LogError("No Text component found to display the level");
 
@@ -129,7 +132,7 @@ public class UIManager : MonoBehaviour {
 
 
 
-    
+
 
 
     private static string FormatTime(float timer)
@@ -185,7 +188,7 @@ public class UIManager : MonoBehaviour {
         this.nextLevelText.enabled = false;
         this.endGameText.enabled = true;
 
-        Debug.Log("end game text is active: "+ endGameText.IsActive().ToString());
+        Debug.Log("end game text is active: " + endGameText.IsActive().ToString());
         endGameText.GetComponent<Animator>().SetTrigger("endGame");
 
     }
